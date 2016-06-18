@@ -8,5 +8,5 @@
 	/**
 	 * print new message
 	 */
-	echo 'Eat shit dumpass';
+	echo 'Eat shit dump ass';
  ?>
