@@ -4,4 +4,6 @@
 	 */
 	$str = 'Hi';
 	echo $str.' Mark'
+
+	echo 'Eat shit mutherfucker';
  ?>
