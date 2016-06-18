@@ -1,3 +1,4 @@
 <?php 
-	echo 'Hello world'
+	$str = 'Hello';
+	echo $str.' world'
  ?>
