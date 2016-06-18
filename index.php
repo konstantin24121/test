@@ -4,4 +4,9 @@
 	 */
 	$str = 'Hi';
 	echo $str.' Mark'
+
+	/**
+	 * print new message
+	 */
+	echo 'Eat shit dumpass';
  ?>
