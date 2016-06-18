@@ -9,4 +9,5 @@
 	 * print new message
 	 */
 	echo 'Eat shit dump ass';
+	echo 'What about jenkins?';
  ?>
