@@ -1,3 +1,7 @@
 <?php 
-	echo 'Hello world'
+	/**
+	 * string str your greating
+	 */
+	$str = 'Hi';
+	echo $str.' Mark'
  ?>
