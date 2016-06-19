@@ -1,0 +1,5 @@
+/project/*
+/public/css/*
+/public/js/*
+/node_modules/*
+/public/bower_components/*

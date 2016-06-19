@@ -1,0 +1,7 @@
+{
+	"sourceFolder": "/src",
+	"distFolder": "/public",
+	"publicPath": "/",
+	"cssPath": "/css",
+	"jsPath": "/js"
+}
